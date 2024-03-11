@@ -1,19 +1,4 @@
-# Instruções
-
-- Faça uma cópia deste arquivo .md para um repositório próprio
-- Resolva as 6 questões objetivas assinalando a alternativa correta
-- Resolva as 4 questões dissertativas escrevendo no próprio arquivo .md
-  - lembre-se de utilizar as estruturas de código como ``esta aqui com ` `` ou
-```javascript
-//esta aqui com ```
-let a = "olá"
-let b = 10
-print(a)
-```
-- Resolva as questões com uso do Visual Studio Code ou ambiente similar.
-- Teste seus códigos antes de trazer a resposta para cá.
-- Cuidado com ChatGPT e afins: entregar algo só para ganhar nota não faz você aprender e ficar mais inteligente. Não seja dependente da máquina!
-- ao final, publique seu arquivo lista_01.md com as respostas em seu repositório, e envie o link pela Adalove. 
+# Larissa dos Santos Temoteo - Turma 14
 
 # Questões objetivas
 
