@@ -5,7 +5,7 @@ class Animal { //definição da classe animal
     }
 
     descrever() {
-        console.log(`Este é ${this.nome}, tem ${this.idade} anos de idade.`);
+        console.log(`Este é o ${this.nome}, ele tem ${this.idade} anos de idade.`);
     }
 }
 
